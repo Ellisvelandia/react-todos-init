@@ -1,11 +1,15 @@
-import React, { useState, useEffect, useCallback, useRef } from "react";
+import React, { useState, useEffect, useCallback, useRef, useContext } from "react";
 import "./App.css";
 import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
 import Social from "./components/Social/Social";
+import TodoListContext from "./context/TodoListContext";
 import { MdEdit, MdDelete } from "react-icons/md";
 
 const App = () => {
+  const { initialState } = useContext(TodoListContext);
+  console.log(initialState);
+
   const [todos, setTodos] = useState([]);
   const [userInput, setUseInput] = useState("");
   const [todoIndex, setTodoIndex] = useState(null);
