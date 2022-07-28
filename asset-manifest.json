@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.0ca5ab5c.css",
-    "main.js": "/repository-name/static/js/main.2370c052.js",
-    "static/js/787.ddd78ced.chunk.js": "/repository-name/static/js/787.ddd78ced.chunk.js",
-    "index.html": "/repository-name/index.html",
-    "main.0ca5ab5c.css.map": "/repository-name/static/css/main.0ca5ab5c.css.map",
-    "main.2370c052.js.map": "/repository-name/static/js/main.2370c052.js.map",
-    "787.ddd78ced.chunk.js.map": "/repository-name/static/js/787.ddd78ced.chunk.js.map"
+    "main.css": "/react-todos-init/static/css/main.0ca5ab5c.css",
+    "main.js": "/react-todos-init/static/js/main.1f52a81c.js",
+    "static/js/787.ddd78ced.chunk.js": "/react-todos-init/static/js/787.ddd78ced.chunk.js",
+    "index.html": "/react-todos-init/index.html",
+    "main.0ca5ab5c.css.map": "/react-todos-init/static/css/main.0ca5ab5c.css.map",
+    "main.1f52a81c.js.map": "/react-todos-init/static/js/main.1f52a81c.js.map",
+    "787.ddd78ced.chunk.js.map": "/react-todos-init/static/js/787.ddd78ced.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ca5ab5c.css",
-    "static/js/main.2370c052.js"
+    "static/js/main.1f52a81c.js"
   ]
 }
